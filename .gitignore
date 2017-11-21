@@ -1,4 +1,5 @@
 config.yml
 docker-compose.yml
+remove_old_recordings.sh
 cctv/**
 !cctv/**/*.md
